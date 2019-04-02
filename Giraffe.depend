@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554173169 source:/home/elemee/Desktop/Giraffe/main.cpp
+	<iostream>
+	<cmath>
+
